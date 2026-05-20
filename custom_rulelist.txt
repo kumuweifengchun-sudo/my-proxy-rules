@@ -4293,6 +4293,9 @@ iipdigital.usembassy.gov
 ||zuola.com
 ||zvereff.com
 ||zyxel.com
+||ipip.la
+||ip.sb
+||speedtest.net
 !##############General List End#################
 !###########Supplemental List Start#############
 !#############Supplemental List End#############
