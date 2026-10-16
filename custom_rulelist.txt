@@ -2687,6 +2687,7 @@ iipdigital.usembassy.gov
 ||lzjscript.com
 ||lzmtnews.org
 !--------------------MM-------------------------
+||macos.do
 ||mjj.today
 ||mediamatters.org
 ||mistral.ai
@@ -4296,6 +4297,7 @@ iipdigital.usembassy.gov
 ||ipip.la
 ||ip.sb
 ||speedtest.net
+||69yun69.com
 !##############General List End#################
 !###########Supplemental List Start#############
 !#############Supplemental List End#############
