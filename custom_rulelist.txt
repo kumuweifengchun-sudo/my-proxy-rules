@@ -3569,6 +3569,7 @@ iipdigital.usembassy.gov
 ||sylfoundation.org
 ||syncback.com
 !--------------------TT-------------------------
+||tntapi.com
 ||tvdy1.com
 ||tgstat.com
 ||the-sun.com
